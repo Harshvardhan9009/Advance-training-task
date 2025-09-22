@@ -58,7 +58,7 @@ const App = () => {
       case 'Mist':
       case 'Smoke':
       case 'Haze':
-      case 'Fog': return '🌫️';
+      case 'Fog': return '❄️';
       default: return '🌍';
     }
   };
